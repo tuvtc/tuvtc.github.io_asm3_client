@@ -1,0 +1,8 @@
+/* style css */
+.checkout-btn {
+    display: inline-block;
+}
+
+.checkout-btn:hover {
+    cursor: pointer;
+}
